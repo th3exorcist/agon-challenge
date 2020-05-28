@@ -1,4 +1,4 @@
-# AgonChallenge
+# agon-challenge  
 A concurrent game made in C. 
 
 # execute  
